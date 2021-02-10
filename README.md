@@ -1,0 +1,1 @@
+This repository was created as an minimal working example for visualizing when a problem in `Documenter.jl` arises. Please see [the raised issue](https://github.com/JuliaDocs/Documenter.jl/issues/1523).
