@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+ModularForms = "1591e58e-be0c-5971-b103-0733cc033d6a"
+
+[compat]
+Documenter = "~0.26"
